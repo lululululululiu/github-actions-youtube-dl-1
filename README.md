@@ -1,4 +1,4 @@
-# Github-actions-youtube-dl ![do](https://github.com/Heraldik/github-actions-youtube-dl/workflows/do/badge.svg)
+# Github-actions-youtube-dl ![do]
 
 使用 GitHub Actions 下载 YouTube 最高画质视频，并自动发布到 Release。
 
